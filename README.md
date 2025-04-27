@@ -23,23 +23,23 @@
 
 **Entries must focus on one or more of the below vizathon modules.**
 
-* **Load Demand**
-  E.g Games & matches played, season availability, training sessions and load.
+* **Load Demand:**
+  Games & matches played, season availability, training sessions and load.
 
-* **Injury History**
-  E.g Current injury status, injury risk category, most recent injury.
+* **Injury History:**
+ Current injury status, injury risk category, most recent injury.
 
-* **Physical Development**
-  E.g Physical test capabilities, development plans, strength & conditioning logs, areas of priority.
+* **Physical Development:**
+  Physical test capabilities, development plans, strength & conditioning logs, areas of priority.
 
-* **Biography**
-  E.g Players details such as photo, nationality, position, age, team, league.
+* **Biography:**
+   Players details such as photo, nationality, position, age, team, league.
 
-* **Recovery**
-  E.g Nutrition, performance behaviour adherence, sleep, wellness.
+* **Recovery:**
+  Nutrition, performance behaviour adherence, sleep, wellness.
 
-* **External Factors**
-  E.g Outside influences that may impact an individual's performance. Environmental, dynamics, cohesion, motivation.
+* **External Factors:**
+  Outside influences that may impact an individual's performance. Environmental, dynamics, cohesion, motivation.
 
 ## **Data**
 ![image](https://github.com/user-attachments/assets/960f921f-be3d-4290-a58a-41369adec338)
