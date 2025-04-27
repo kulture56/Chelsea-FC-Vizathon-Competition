@@ -42,4 +42,4 @@
 * The data provided acts as a reference, and we welcome individuals to supplement it through other data retrieval methods or creating mock data.
 * The data supplied by CFC comes with a data guide to help individuals understand the core metrics.
 * Any supplementary data used should be based on the modules outlined above, with the data sources referenced in the project.
-* Click to view data repository (https://github.com/Chelsea-Fc-Performance-Insights/Competition/tree/main/DATA)
+ * Click to view data repository (https://github.com/Chelsea-Fc-Performance-Insights/Competition/tree/main/DATA)
