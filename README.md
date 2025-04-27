@@ -16,7 +16,8 @@
 
 * Submit your work files along with a written description or short video walk-through highlighting key features and functionality.
 
-## What Should Be Visualised?
+## What Should Be Visualised? ![image](https://github.com/user-attachments/assets/31748b72-9f1d-4892-a5a4-267de4371448)
+
 
 **Entries must focus on one or more of the below vizathon modules.**
 
