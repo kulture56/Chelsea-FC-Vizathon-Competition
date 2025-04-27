@@ -17,6 +17,7 @@
 * Submit your work files along with a written description or short video walk-through highlighting key features and functionality.
 
 ## What Should Be Visualised? ![image](https://github.com/user-attachments/assets/68188cf3-ec88-4fee-b7c7-cf92650ed052)
+![image](https://github.com/user-attachments/assets/0302e067-3d92-4fe9-9903-56565c121d67)
 
 
 
