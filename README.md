@@ -1,4 +1,5 @@
-Chelsea FC Vizathon Competition
+# 🩵💙Chelsea FC Vizathon Competition
+
 Welcome to my project submission for the Chelsea FC Performance Insights Vizathon! 🏆⚽
 This competition focuses on using Power BI to build insightful, dynamic dashboards that help analyze Chelsea FC's player and team performance.
 
