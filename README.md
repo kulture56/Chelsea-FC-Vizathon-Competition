@@ -16,7 +16,7 @@
 
 * Submit your work files along with a written description or short video walk-through highlighting key features and functionality.
 
-## What Should Be Visualised? ![image](https://github.com/user-attachments/assets/68188cf3-ec88-4fee-b7c7-cf92650ed052)
+## What Should Be Visualised? 
 ![image](https://github.com/user-attachments/assets/0302e067-3d92-4fe9-9903-56565c121d67)
 
 
@@ -41,7 +41,8 @@
 * **External Factors**
   E.g Outside influences that may impact an individual's performance. Environmental, dynamics, cohesion, motivation.
 
-## **Data** ![image](https://github.com/user-attachments/assets/960f921f-be3d-4290-a58a-41369adec338)
+## **Data**
+![image](https://github.com/user-attachments/assets/960f921f-be3d-4290-a58a-41369adec338)
 
 
 * Some data has been made available by CFC to inspire your vizathon entry.
@@ -51,6 +52,7 @@
 * Click to view data repository (https://github.com/Chelsea-Fc-Performance-Insights/Competition/tree/main/DATA)
 
 ## **Dataset Overview**
+![image](https://github.com/user-attachments/assets/68188cf3-ec88-4fee-b7c7-cf92650ed052)
 
 * **Dataset Name**	           **Dataset Description**
 * **GPS:**                	     GPS performance metrics track movement demands, including speed, distance, and acceleration, to assess workload and physical output. This dataset 
