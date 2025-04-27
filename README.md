@@ -15,7 +15,24 @@
 
 * Submit your work files along with a written description or short video walk-through highlighting key features and functionality.
 
-This competition focuses on using Power BI to build insightful, dynamic dashboards that help analyze Chelsea FC's player and team performance.
+## What Should Be Visualised?
 
-📊 Project Overview
-The Chelsea FC Vizathon challenges participants to explore real-world football data and present valuable insights through creative visualizations.
+**Entries must focus on one or more of the below vizathon modules.**
+
+* **Load Demand**
+* E.g Games & matches played, season availability, training sessions and load.
+
+* **Injury History**
+* E.g Current injury status, injury risk category, most recent injury.
+
+* **Physical Development**
+* E.g Physical test capabilities, development plans, strength & conditioning logs, areas of priority.
+
+* **Biography**
+* E.g Players details such as photo, nationality, position, age, team, league.
+
+* **Recovery**
+* E.g Nutrition, performance behaviour adherence, sleep, wellness.
+
+* **External Factors**
+* E.g Outside influences that may impact an individual's performance. Environmental, dynamics, cohesion, motivation.
