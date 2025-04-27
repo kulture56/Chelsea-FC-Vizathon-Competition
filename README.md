@@ -1,5 +1,4 @@
-# 🩵💙Chelsea FC Vizathon Competition 
-![ChelseaLogoGIF](https://github.com/user-attachments/assets/9495d426-4371-4997-8a62-37bedabfc475)
+# 🩵💙Chelsea FC Vizathon Competition ![ChelseaLogoGIF](https://github.com/user-attachments/assets/9495d426-4371-4997-8a62-37bedabfc475)
 
 
 Welcome to my project submission for the Chelsea FC Performance Insights Vizathon! 🏆⚽
