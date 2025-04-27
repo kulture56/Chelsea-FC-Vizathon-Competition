@@ -1,9 +1,10 @@
-# 🩵💙Chelsea FC Vizathon Competition ![image](https://github.com/user-attachments/assets/cef87cac-13f0-4a0c-820e-88936521b3ad)
+# 🩵💙Chelsea FC Vizathon Competition 
 
 ## Welcome to my project submission for the Chelsea FC Performance Insights Vizathon! 🏆⚽
 ![image](https://github.com/user-attachments/assets/6e6d6c1a-1047-4423-aaa0-1c14855fce54)
 
-## **The Challenge**
+## **The Challenge** ![image](https://github.com/user-attachments/assets/311a7dc5-11e9-475e-a755-e99477448cc8)
+
 
 * Create the most compelling physical performance interface for elite football players and their coaches.
 
