@@ -43,3 +43,13 @@
 * The data supplied by CFC comes with a data guide to help individuals understand the core metrics.(https://github.com/Chelsea-Fc-Performance-Insights/Competition/blob/main/DATA/CFC%20Vizathon%20Data%20Guide.pdf)
 * Any supplementary data used should be based on the modules outlined above, with the data sources referenced in the project.
 * Click to view data repository (https://github.com/Chelsea-Fc-Performance-Insights/Competition/tree/main/DATA)
+
+## **Dataset Overview**
+
+* **Dataset Name**	           **Dataset Description**
+* **GPS**                 	     GPS performance metrics track movement demands, including speed, distance, and acceleration, to assess workload and physical output. This dataset 
+                                 contains simulated data for 1 player.
+* **Physical Capability** 	     Physical Capability is measured using a battery of tests which measure different qualities and expressions of force.
+* **Recovery Status**            Recovery status is measured using several tests and metrics to inform recovery strategies throughout the season. This dataset contains simulated data 
+                                 for 1 player.
+* **Individual Priority**        Individual priority areas are identified and reviewed by the player and Performance Support Team.
