@@ -47,9 +47,9 @@
 ## **Dataset Overview**
 
 * **Dataset Name**	           **Dataset Description**
-* **GPS**                 	     GPS performance metrics track movement demands, including speed, distance, and acceleration, to assess workload and physical output. This dataset 
+* **GPS:**                	     GPS performance metrics track movement demands, including speed, distance, and acceleration, to assess workload and physical output. This dataset 
                                  contains simulated data for 1 player.
-* **Physical Capability** 	     Physical Capability is measured using a battery of tests which measure different qualities and expressions of force.
-* **Recovery Status**            Recovery status is measured using several tests and metrics to inform recovery strategies throughout the season. This dataset contains simulated data 
+* **Physical Capability:** 	     Physical Capability is measured using a battery of tests which measure different qualities and expressions of force.
+* **Recovery Status:**            Recovery status is measured using several tests and metrics to inform recovery strategies throughout the season. This dataset contains simulated data 
                                  for 1 player.
-* **Individual Priority**        Individual priority areas are identified and reviewed by the player and Performance Support Team.
+* **Individual Priority:**        Individual priority areas are identified and reviewed by the player and Performance Support Team.
